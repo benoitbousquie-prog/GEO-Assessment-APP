@@ -360,3 +360,4 @@ if do_bench:
             st.info("No critical architecture vulnerabilities found!")
 
 st.caption("Each site fetched, analyzed, and scored independently. No state or HTML reuse. Business matrix and roadmap powered by CodeMie GEO Enterprise.")
+            st.caption("Diagnostics and strategic roadmap driven by CodeMie GEO Enterprise Framework. Report UI harmonized with enterprise HTML dashboard standards.")
