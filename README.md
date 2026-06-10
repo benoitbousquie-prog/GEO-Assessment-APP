@@ -24,9 +24,7 @@ streamlit run codemie_geo_assistant.py
 In your browser:
 
 Enter up to 5 URLs (your site and competitors)
-
 Click to run the benchmark
-
 Review the table, spider chart, and detailed dashboards for recommendations
 
 Files
